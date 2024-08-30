@@ -1,0 +1,9 @@
+lunatic\xyz\lunaticuhc\players\UhcTeam.class
+lunatic\xyz\lunaticuhc\eventos\PlayerJoinEvent.class
+lunatic\xyz\lunaticuhc\comandos\StartCommand.class
+lunatic\xyz\lunaticuhc\players\UhcPlayer.class
+lunatic\xyz\lunaticuhc\managers\GeneralManager.class
+lunatic\xyz\lunaticuhc\status\PlayerState.class
+lunatic\xyz\lunaticuhc\LunaticUHC.class
+lunatic\xyz\lunaticuhc\status\StateUhc.class
+lunatic\xyz\lunaticuhc\managers\WorldManager.class

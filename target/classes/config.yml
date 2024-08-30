@@ -1,0 +1,15 @@
+#
+#  PLUGIN OFICIAL DE LUNATICUHC.xyz
+#
+
+timers:
+  pvp: 240
+  meetup: 300
+
+mundo:
+  animales: true
+  mobs: false
+
+borde:
+  tamaño: 1000
+  teletransporte: true

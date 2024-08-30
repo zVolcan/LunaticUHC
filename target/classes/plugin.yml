@@ -1,0 +1,12 @@
+name: LunaticUHC
+version: '0.9'
+main: lunatic.xyz.lunaticuhc.LunaticUHC
+api-version: '1.17'
+load: STARTUP
+authors: [zVolcan]
+description: Plugin oficial de LunaticUHC
+website: lunaticuhc.xyz
+commands:
+  start:
+    description: "."
+    usage: "/start"
